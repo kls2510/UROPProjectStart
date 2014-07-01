@@ -6,7 +6,7 @@ public class Initialize {
 		final String dir = System.getProperty("user.dir");
 		String[] comLineArgs = {"-c" + dir + "\\src\\main\\resources\\CheckstyleFormat.xml" , "-o" + dir + "\\src\\main\\resources\\CheckstyleOutput.txt ", dir + "\\src\\main\\java\\Test.java"};
 
-		Initialize.main(comLineArgs);
+		Main.main(comLineArgs);
 	}
 }
 
