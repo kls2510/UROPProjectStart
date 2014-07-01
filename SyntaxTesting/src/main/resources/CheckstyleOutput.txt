@@ -1,2 +1,4 @@
 Starting audit...
+C:\Users\Katie\UROPWorkspace\UROPProjectStart\SyntaxTesting\src\test\resources\IndentationTestCase1.java:2: class def ident at indentation level 8 not at correct indentation, 0
+C:\Users\Katie\UROPWorkspace\UROPProjectStart\SyntaxTesting\src\test\resources\IndentationTestCase1.java:2: class def modifier at indentation level 8 not at correct indentation, 0
 Audit done.
